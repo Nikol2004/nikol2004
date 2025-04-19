@@ -17,5 +17,3 @@ I'm a Management and Computer Science student at Luiss Guido Carli, with a growi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikol2004&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
